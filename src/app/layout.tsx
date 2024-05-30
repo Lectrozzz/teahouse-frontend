@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 const fredoka = Fredoka({
 	weight: "400",
 	subsets: ["latin"],
-	display: "swap",
+	display: "auto",
 });
 
 export default function RootLayout({
